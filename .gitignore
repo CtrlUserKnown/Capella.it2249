@@ -1,0 +1,7 @@
+# remove docx files
+*.docx
+*/*.docx
+
+# remove .zip files
+*.zip
+*/*.zip

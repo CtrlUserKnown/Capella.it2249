@@ -1,0 +1,118 @@
+In this assignment, you will debug and fix a given Java console application that uses if statements, but the application does not compile nor execute.
+
+Your program output should look like the sample output provided in the "Debug and Fix if Statements" course file resource.
+
+Full instructions for successfully completing this assignment are included below.
+
+Debug and Fix if Statements Instructions [PDF].
+DebugFixIFStmts.zip.
+Use the submission template provided, Week X Solution Submission Template [DOCX].
+
+Your assignment will be scored on the following criteria:
+
+Identify Java decision statement bugs in a program using development tools.
+Code an application to fix bugs.
+Test the application and document testing.
+Explain the approach taken to complete the fix and the major decisions made.
+Identify relevant fundamental constructs in the submitted program.
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional.
+Competencies Measured
+By successfully completing this assignment, you will demonstrate your proficiency in the following course competencies and rubric criteria:
+
+Competency 2: Identify fundamental programming processes, logic, and constructs.
+Identify Java decision statement bugs in a program using development tools.
+Identify relevant fundamental constructs in submitted program.
+Competency 4: Code Java console applications using foundational Java features.
+Code an application to fix bugs.
+Competency 5: Apply tools and testing for successful program execution.
+Test the application and document testing.
+Competency 6: Explain Java program design decisions or strategies to stakeholders or team members.
+Explain the approach taken to complete the fix and the major decisions made.
+Competency 7: Communicate efficiently, effectively, and in an appropriate manner for an IT professional.
+Communicate efficiently, effectively, and in an appropriate manner as an IT professional.
+Week 3 Assignment 2: Debug and Fix if Statements
+Week 3 Assignment 2: Debug and Fix if Statements
+Criteria	Ratings	Pts
+Identify Java decision statement bugs in a program using development tools.
+14 to >11.9 pts
+DISTINGUISHED
+Identifies all Java decision statement bugs in a program using development tools. Clearly documents these bugs and their causes.
+11.9 to >9.8 pts
+PROFICIENT
+Identifies Java decision statement bugs in a program using development tools.
+9.8 to >0 pts
+BASIC
+Identifies some Java decision statement bugs in a program using development tools, but not all bugs.
+0 pts
+NON_PERFORMANCE
+Does not identify bugs.
+/ 14 pts
+Code an application to fix bugs.
+11.2 to >9.52 pts
+DISTINGUISHED
+Codes an application to fix all four bugs. Source code is well organized and well documented.
+9.52 to >7.84 pts
+PROFICIENT
+Codes an application to fix bugs.
+7.84 to >0 pts
+BASIC
+Codes an application to fix some bugs, but not all bugs.
+0 pts
+NON_PERFORMANCE
+Does not code an application to fix bugs.
+/ 11.2 pts
+Test the application and document testing.
+11.2 to >9.52 pts
+DISTINGUISHED
+Tests the application and documents testing with appropriate evidence. Provides well-organized, well-presented documentation of testing steps.
+9.52 to >7.84 pts
+PROFICIENT
+Tests the application and documents testing.
+7.84 to >0 pts
+BASIC
+Tests the application and partially documents testing, or documentation is inaccurate or unsuitable.
+0 pts
+NON_PERFORMANCE
+Does not test the application.
+/ 11.2 pts
+Explain the approach taken to complete the fix and the major decisions made.
+11.2 to >9.52 pts
+DISTINGUISHED
+Explains the approach taken to complete the fix, and the major decisions made. Self-reflects on the learning experience and lessons learned.
+9.52 to >7.84 pts
+PROFICIENT
+Explains the approach taken to complete the fix and the major decisions made.
+7.84 to >0 pts
+BASIC
+Partially explains the approach taken to complete the fix and the major decisions made.
+0 pts
+NON_PERFORMANCE
+Does not explain the approach taken to complete this assignment and the major decisions made.
+/ 11.2 pts
+Identify relevant fundamental constructs in submitted program.
+11.2 to >9.52 pts
+DISTINGUISHED
+Identifies relevant fundamental constructs in submitted program, and explains how they were used.
+9.52 to >7.84 pts
+PROFICIENT
+Identifies relevant fundamental constructs in submitted program.
+7.84 to >0 pts
+BASIC
+Identifies some relevant fundamental constructs in submitted program, or constructs that are not relevant or specific.
+0 pts
+NON_PERFORMANCE
+Does not identify constructs in submitted program.
+/ 11.2 pts
+Communicate efficiently, effectively, and in an appropriate manner as an IT professional.
+11.2 to >9.52 pts
+DISTINGUISHED
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional. Writing is well organized, well formatted, and free of grammatical and spelling errors.
+9.52 to >7.84 pts
+PROFICIENT
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional.
+7.84 to >0 pts
+BASIC
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional; some errors detract from meaning.
+0 pts
+NON_PERFORMANCE
+Does not communicate efficiently, effectively, and in an appropriate manner as an IT professional.
