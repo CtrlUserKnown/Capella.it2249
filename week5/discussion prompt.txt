@@ -1,0 +1,14 @@
+Add Five Integers Using Java Loops
+Review the resources and instructions in the Discussion Prep Study before completing this discussion. For this discussion, you practiced looping constructs by repeatedly reading the values of integers from the console and tallying their sum. Create a Java program that reads in five integer values entered at the console and tallies their sum. The program then prints the sum out to the screen.
+
+With this new knowledge, share your experiences by engaging in a conversation with at least ONE of the following:
+
+Provide a screenshot of the result of your work. Your screenshot should look like the "Add5IntsWithLoops Results" resource. Briefly explain how you completed this exercise, the algorithm you used (via pseudo-code or other description tools), the major issues you faced, and how you solved them.
+Reflect on your experience and what you learned.
+Response Guidelines
+Your Writing: Each post should be courteous, succinct, professional, well written, and organized, using proper writing mechanics, grammar, and punctuation.
+Your Post: Please post something to the discussion board related to the content covered this week. Do not create your post as a reply to the pinned post. Instead, use Yellowdig’s Create option to create a new post.
+Responding to Peers: As you respond to your classmates, share your professional experiences and feedback regarding their posts. Try to comment on those that have had few or no responses thus far, and consider the following:
+How have your experiences resonated with their ideas?
+What can you add to their ideas, building upon the connections you have made to the material so far?
+Consider exploring the features of Yellowdig, such as your ability to embed videos and pictures, create polls and videos, use hashtags, love or like a post, and so on.

@@ -1,0 +1,116 @@
+Assignment prompt:
+
+In this assignment, you will design and code a Java console application that takes in as input, five integer values and produces as output, the lowest and highest values of these five integer values. The application uses Java looping constructs to implement its functionality.
+
+Your program output should look like the sample output provided in the "Find Highest and Lowest of Five Integers Using Java Loops Instructions" course file resource. Full instructions for successfully completing this assignment are included in this resource. Use the provided submission template, Week X Solution Submission Template [DOCX].
+
+Your assignment will be scored according to the following criteria:
+
+Design a program that meets Java looping statements requirements.
+Code an application that exercises looping constructs.
+Test the application and documents testing.
+Explain the approach taken to develop the application and the major decisions made.
+Identify relevant fundamental constructs in the submitted program.
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional.
+Competencies Measured
+By successfully completing this assignment, you will demonstrate your proficiency in the following course competencies and rubric criteria:
+
+Competency 2: Identify fundamental programming processes, logic, and constructs.
+Identify relevant fundamental constructs in submitted program.
+Competency 3: Design simple Java console programs according to specifications.
+Design a program that meets Java looping statements requirements.
+Competency 4: Code Java console applications using foundational Java features.
+Code an application that exercises looping constructs.
+Competency 5: Apply tools and testing for successful program execution.
+Test the application and document testing.
+Competency 6: Explain Java program design decisions or strategies to stakeholders or team members.
+Explain the approach taken to develop the application and the major decisions made.
+Competency 7: Communicate efficiently, effectively, and in an appropriate manner for an IT professional.
+Communicate efficiently, effectively, and in an appropriate manner as an IT professional.
+Week 5 Assignment 2: Find Highest and Lowest of Five Integers Using Java Loops
+Week 5 Assignment 2: Find Highest and Lowest of Five Integers Using Java Loops
+Criteria	Ratings	Pts
+Design a program that meets Java looping statements requirements.
+16 to >13.6 pts
+DISTINGUISHED
+Designs a program that meets Java looping statements requirements. Exceeds the given specifications with appropriate extensions.
+13.6 to >11.2 pts
+PROFICIENT
+Designs a program that meets Java looping statements requirements.
+11.2 to >0 pts
+BASIC
+Designs a program that partially meets given specifications.
+0 pts
+NON_PERFORMANCE
+Does not design a program that meets given specifications.
+/ 16 pts
+Code an application that exercises looping constructs.
+12.8 to >10.88 pts
+DISTINGUISHED
+Codes an application that exercises looping constructs. Source code is well organized and well documented.
+10.88 to >8.96 pts
+PROFICIENT
+Codes an application that exercises looping constructs.
+8.96 to >0 pts
+BASIC
+Partially codes an application that exercises looping constructs, or does not use appropriate constructs.
+0 pts
+NON_PERFORMANCE
+Does not code an application that exercises looping constructs.
+/ 12.8 pts
+Test the application and document testing.
+12.8 to >10.88 pts
+DISTINGUISHED
+Tests the application and documents testing. Provides well-organized, well-presented documentation of testing steps.
+10.88 to >8.96 pts
+PROFICIENT
+Tests the application and documents testing.
+8.96 to >0 pts
+BASIC
+Partially tests and documents the result of testing, or tests and documentation are inaccurate.
+0 pts
+NON_PERFORMANCE
+Does not test the application.
+/ 12.8 pts
+Explain the approach taken to develop the application and the major decisions made.
+12.8 to >10.88 pts
+DISTINGUISHED
+Explains the approach taken to develop the application and the major decisions made. Self-reflects on the process, experience, and lessons learned.
+10.88 to >8.96 pts
+PROFICIENT
+Explains the approach taken to develop the application and the major decisions made.
+8.96 to >0 pts
+BASIC
+Partially explains the approach taken to develop the application and the major decisions made.
+0 pts
+NON_PERFORMANCE
+Does not explain the approach taken to develop the application and the major decisions made.
+/ 12.8 pts
+Identify relevant fundamental constructs in submitted program.
+12.8 to >10.88 pts
+DISTINGUISHED
+Identifies relevant fundamental constructs in submitted program, and explains how they were used.
+10.88 to >8.96 pts
+PROFICIENT
+Identifies relevant fundamental constructs in submitted program.
+8.96 to >0 pts
+BASIC
+Identifies some relevant fundamental constructs in submitted program, or constructs that are not relevant or specific.
+0 pts
+NON_PERFORMANCE
+Does not identify constructs in submitted program.
+/ 12.8 pts
+Communicate efficiently, effectively, and in an appropriate manner as an IT professional.
+12.8 to >10.88 pts
+DISTINGUISHED
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional. Writing is well organized, well formatted, and free of grammatical and spelling errors.
+10.88 to >8.96 pts
+PROFICIENT
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional.
+8.96 to >0 pts
+BASIC
+Communicates efficiently, effectively, and in an appropriate manner as an IT professional; some errors detract from meaning.
+0 pts
+NON_PERFORMANCE
+Does not communicate efficiently, effectively, and in an appropriate manner as an IT professional.
+/ 12.8 pts
