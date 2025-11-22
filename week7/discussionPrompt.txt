@@ -1,0 +1,7 @@
+Echo Five Integers Using Java Arrays
+Review the resources and instructions in the Discussion Prep Study before completing this discussion. In this discussion, you will practice using Java arrays to store values entered at the console and then print them out to the screen. That is, you will practice echoing the entered values using arrays. Create a Java program that reads five integer values entered at the console and stores them in an array. The program then prints these integer values out to the screen.
+
+With this new knowledge, share your experiences by engaging in a conversation with at least ONE of the following:
+
+Provide a screenshot of the result of your work. Briefly explain how you completed this exercise, the algorithm you used (via pseudo-code or other description tools), the major issues you faced, and how you solved them. Your screenshot should look like the "Echo5Ints Using Arrays Result" resource.
+Reflect on your experience and what you learned.

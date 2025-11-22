@@ -1,0 +1,14 @@
+Echo Input from the Console to the Screen Using Methods
+For this discussion, you practiced using Java methods to echo inputs from the console to the screen. Create a Java program that reads in any value entered at the console and then prints it out to the screen. The program must have at least three methods, including the main() method.
+
+For this conversation, engage your course community in at least ONE of the following:
+
+Provide a screenshot of the result of your work. Briefly explain how you completed this exercise, the algorithm you used (via pseudo-code or other description tools), the major issues you faced, and how you solved them. Use the Echo Using Methods Results resource as an example.
+Reflect on your experience and what you learned.
+Response Guidelines
+Your Writing: Each post should be courteous, succinct, professional, well written, and organized, using proper writing mechanics, grammar, and punctuation.
+Your Post: Please post something to the discussion board related to the content covered this week. Do not create your post as a reply to the pinned post. Instead, use Yellowdig’s Create option to create a new post.
+Responding to Peers: As you respond to your classmates, share your professional experiences and feedback regarding their posts. Try to comment on those that have had few or no responses thus far, and consider the following:
+How have your experiences resonated with their ideas?
+What can you add to their ideas, building upon the connections you have made to the material so far?
+Consider exploring the features of Yellowdig, such as your ability to embed videos and pictures, create polls and videos, use hashtags, love or like a post, and so on.

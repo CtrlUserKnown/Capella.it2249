@@ -1,0 +1,8 @@
+For this assignment, I made a Java program that asks the user to enter a single character and then tells them if it's a letter, digit, or neither.
+
+My Algorithm:
+I used a switch statement with Character.getType( ) to figure out what type of character the user entered. Basically, the program:
+
+
+What I Learned:
+Honestly, this project was pretty simple, but I actually enjoyed learning more about the Character class since I haven't really used it much before. I ran into a couple logical bugs while working on it, mostly just getting the Scanner to read a single character properly, but nothing too complicated. Claude AI really helped me better understand the libraries and the little errors I made along the way. Overall it was pretty straightforward once I figured out how Character.getType( ) worked. It's definitely easier than trying to check ASCII values manually or something like that.

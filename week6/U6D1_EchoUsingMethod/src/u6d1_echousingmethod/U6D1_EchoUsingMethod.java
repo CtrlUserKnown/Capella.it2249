@@ -36,7 +36,7 @@ public class U6D1_EchoUsingMethod {
 	public static void main(String[] args) {
         // call the methods from within main
         toOutput(getInput());
-	}
-	
+    }
+
 }
 
