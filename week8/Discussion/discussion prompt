@@ -1,0 +1,6 @@
+In this discussion, you will practice using a Java two-dimensional array to count the number of occurrences of seven integers entered at the keyboard. Create a Java program that reads in seven integer values entered at the console, counts the number of occurrences of each of the seven values, and prints the number of occurrences to the screen.
+
+Begin a conversation about your experiences relating to at least ONE of the following:
+
+Provide a screenshot of the result of your work. Briefly explain how you completed this exercise, the algorithm you used (via pseudo-code or other description tools), the major issues you faced, and how you solved them. Your screenshot should look like the "2DNumOfOccurin7Ints Result" resource.
+Reflect on your experience and what you learned.
